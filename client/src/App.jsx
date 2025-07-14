@@ -12,7 +12,7 @@ import Dashboard from './pages/owner/Dashboard'
 import AddCar from './pages/owner/AddCar'
 import ManageCar from './pages/owner/ManageCar'
 import ManageBookings from './pages/owner/ManageBookings'
-import Login from './components/login'
+import Login from './components/Login' 
 import { Toaster } from 'react-hot-toast'
 import { useAppContext } from '../context/AppContext'
 const App = () => {
