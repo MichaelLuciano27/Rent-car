@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import { findRule } from "tslint";
+
 const {ObjectId} = mongoose.SchemaTypes
 
 const carSchema = new mongoose.Schema({
